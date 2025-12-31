@@ -116,3 +116,34 @@ ul li span:hover {
     background: #edeef0;
     border-radius: 50%;
 }
+
+
+/* For Tablets and Small Laptops */
+@media (max-width: 768px) {
+    .todo-app {
+        width: 90%; /* Let the app shrink to fit the screen */
+        padding: 30px 20px; /* Reduce padding to save space */
+    }
+}
+
+/* For Mobile Phones (like the one in your screenshot) */
+@media (max-width: 480px) {
+    .todo-app h2 {
+        font-size: 22px; /* Smaller title for small screens */
+    }
+
+    .row {
+        padding-left: 15px; /* Less space on the left */
+    }
+
+    button {
+        padding: 12px 25px; /* Smaller button so it doesn't overflow */
+        font-size: 14px;
+    }
+
+    ul li {
+        font-size: 15px; /* Smaller text for list items */
+        padding: 10px 8px 10px 40px; /* Adjust padding for smaller screens */
+    }
+}
+
