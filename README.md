@@ -1,10 +1,11 @@
 # 📝 Modern To-Do List
 
 A sleek, minimalist To-Do List application built with **Vanilla JavaScript**. This project focuses on a clean user interface and persistent data storage using the browser's local storage.
-
-## 🚀 Live Demo
+Screenshot of the Project
 [C<img width="1366" height="768" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/b42e81f5-b631-40cd-84ca-e6354daa91ac" />
-lick here to view the live project](YOUR_GITHUB_PAGES_LINK_HERE)
+Click here to view the live project
+## 🚀 Live Demo
+https://app.netlify.com/projects/to-do-list-rani
 
 ## ✨ Features
 * **Add Tasks:** Quickly add new items to your list.
