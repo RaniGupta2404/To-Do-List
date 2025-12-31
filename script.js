@@ -3,7 +3,7 @@ const listContainer = document.getElementById("list-container");
 
 function addTask() {
     if (inputBox.value === '') {
-        alert("Arey Pahle Task to likho fir add krna!");
+        alert("Please write down the task!");
     } else {
         let li = document.createElement("li");
         li.innerHTML = inputBox.value;
