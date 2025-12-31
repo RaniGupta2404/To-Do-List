@@ -6,7 +6,7 @@ Screenshot of the Project
 <img width="1366" height="768" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/b42e81f5-b631-40cd-84ca-e6354daa91ac" />
 Click here to view the live project
 ## 🚀 Live Demo
-https://app.netlify.com/projects/to-do-list-rani
+https://to-do-list-rani.netlify.app/
 
 ## ✨ Features
 * **Add Tasks:** Quickly add new items to your list.
